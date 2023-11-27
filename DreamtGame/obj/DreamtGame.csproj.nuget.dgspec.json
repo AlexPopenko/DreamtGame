@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learnings\\College Files 2023\\+Fall\\Web App\\Projects Solutions\\DreamtGame\\DreamtGame\\DreamtGame.csproj": {}
+    "D:\\Learnings\\College Files 2023\\+Fall\\Web App\\Project\\DreamtGame\\DreamtGame\\DreamtGame\\DreamtGame.csproj": {}
   },
   "projects": {
-    "D:\\Learnings\\College Files 2023\\+Fall\\Web App\\Projects Solutions\\DreamtGame\\DreamtGame\\DreamtGame.csproj": {
+    "D:\\Learnings\\College Files 2023\\+Fall\\Web App\\Project\\DreamtGame\\DreamtGame\\DreamtGame\\DreamtGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learnings\\College Files 2023\\+Fall\\Web App\\Projects Solutions\\DreamtGame\\DreamtGame\\DreamtGame.csproj",
+        "projectUniqueName": "D:\\Learnings\\College Files 2023\\+Fall\\Web App\\Project\\DreamtGame\\DreamtGame\\DreamtGame\\DreamtGame.csproj",
         "projectName": "DreamtGame",
-        "projectPath": "D:\\Learnings\\College Files 2023\\+Fall\\Web App\\Projects Solutions\\DreamtGame\\DreamtGame\\DreamtGame.csproj",
+        "projectPath": "D:\\Learnings\\College Files 2023\\+Fall\\Web App\\Project\\DreamtGame\\DreamtGame\\DreamtGame\\DreamtGame.csproj",
         "packagesPath": "C:\\Users\\AlexP\\.nuget\\packages\\",
-        "outputPath": "D:\\Learnings\\College Files 2023\\+Fall\\Web App\\Projects Solutions\\DreamtGame\\DreamtGame\\obj\\",
+        "outputPath": "D:\\Learnings\\College Files 2023\\+Fall\\Web App\\Project\\DreamtGame\\DreamtGame\\DreamtGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

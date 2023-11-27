@@ -13,19 +13,33 @@ namespace DreamtGame.Controllers
             _logger = logger;
         }
 
+        [HttpGet]
         public IActionResult Index()
         {
-            return View();
+            GameModel model;
+            model = new GameModel();
+            return View(model);
+        }
+        [HttpPost]
+        public IActionResult Index(GameModel model)
+        {
+
+            
+            
+            return View(model);
         }
 
-        public IActionResult Game()
+        public IActionResult Game(GameModel model)
         {
-            return View("Game");
+
+            return View("Game", model);
         }
+        [HttpGet]
         public IActionResult Options()
         {
             return View("Options");
         }
+
 
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

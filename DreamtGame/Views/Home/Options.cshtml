@@ -4,3 +4,14 @@
 @{
 }
 <h1>Options View</h1>
+
+<form asp-controller="Home" asp-action="Index" method="post">
+  <label for="UserenameP1">Player 1 Username:</label><br>
+  <input type="text" id="UserenameP1" name="UserenameP1"><br>
+  <label for="UserenameP2">Player 1 Username:</label><br>
+  <input type="text" id="UserenameP2" name="UserenameP1"><br>
+  <label for="ColorBlind"> Colorblind mode: </label>
+  <input type="checkbox" id="ColorBlind" name="ColorBlind" value="ColorBlind"><br>
+  <input type="submit" value="Submit">
+ 
+</form>

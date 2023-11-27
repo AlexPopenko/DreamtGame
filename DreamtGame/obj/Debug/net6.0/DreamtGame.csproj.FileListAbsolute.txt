@@ -28,3 +28,33 @@ D:\Learnings\College Files 2023\+Fall\Web App\Projects Solutions\DreamtGame\Drea
 D:\Learnings\College Files 2023\+Fall\Web App\Projects Solutions\DreamtGame\DreamtGame\obj\Debug\net6.0\DreamtGame.pdb
 D:\Learnings\College Files 2023\+Fall\Web App\Projects Solutions\DreamtGame\DreamtGame\obj\Debug\net6.0\DreamtGame.genruntimeconfig.cache
 D:\Learnings\College Files 2023\+Fall\Web App\Projects Solutions\DreamtGame\DreamtGame\obj\Debug\net6.0\ref\DreamtGame.dll
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\bin\Debug\net6.0\appsettings.Development.json
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\bin\Debug\net6.0\appsettings.json
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\bin\Debug\net6.0\DreamtGame.staticwebassets.runtime.json
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\bin\Debug\net6.0\DreamtGame.exe
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\bin\Debug\net6.0\DreamtGame.deps.json
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\bin\Debug\net6.0\DreamtGame.runtimeconfig.json
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\bin\Debug\net6.0\DreamtGame.dll
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\bin\Debug\net6.0\DreamtGame.pdb
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\DreamtGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\DreamtGame.AssemblyInfoInputs.cache
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\DreamtGame.AssemblyInfo.cs
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\DreamtGame.csproj.CoreCompileInputs.cache
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\DreamtGame.MvcApplicationPartsAssemblyInfo.cache
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\DreamtGame.RazorAssemblyInfo.cache
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\DreamtGame.RazorAssemblyInfo.cs
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\staticwebassets\msbuild.DreamtGame.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\staticwebassets\msbuild.build.DreamtGame.props
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DreamtGame.props
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DreamtGame.props
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\staticwebassets.build.json
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\staticwebassets.development.json
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\scopedcss\bundle\DreamtGame.styles.css
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\scopedcss\projectbundle\DreamtGame.bundle.scp.css
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\DreamtGame.dll
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\refint\DreamtGame.dll
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\DreamtGame.pdb
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\DreamtGame.genruntimeconfig.cache
+D:\Learnings\College Files 2023\+Fall\Web App\Project\DreamtGame\DreamtGame\DreamtGame\obj\Debug\net6.0\ref\DreamtGame.dll

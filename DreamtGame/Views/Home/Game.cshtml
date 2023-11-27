@@ -5,3 +5,40 @@
 }
 
 <h1>Game View</h1>
+<style>
+    .grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #6B6B6B;
+  padding: 10px;
+
+
+}
+.grid-item{
+    background-color:#6B6B6B;
+  
+  padding: 5px;
+  font-size: 15px;
+  text-align: center;
+}
+.grid-item5{
+padding:160px;
+}
+h1{
+text-align: center;
+}
+
+
+</style>
+<div class="grid-container">
+  <div class="grid-item">Score: @Model.ScoreP1</div>
+  <div class="grid-item">@Model.Turn</div>
+  <div class="grid-item">Score: @Model.ScoreP2</div>
+  <div class="grid-item"></div>
+  <div class="grid-item5"></div>
+  <div class="grid-item"></div>
+  <div class="grid-item"></div>
+  <div class="grid-item"></div>
+  <div class="grid-item"></div>
+</div>
+<h1><a asp-action="Index">Home</a></h1>
